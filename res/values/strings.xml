@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, WinterzauberSplash!</string>
+    <string name="app_name">WinterzauberApp</string>
+    <string name="Lageplan">Lage Plan </string>
+    <string name="Programm">Programm</string>
+    <string name="Info">Info</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Filme">Filme</string>
+    <string name="Navigate">Bring mich hin!</string>
+    <string name="WinterzauberMain">WinterzauberMain</string>
+	
+	
+    
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+android:id="@+id/widget109"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/background">
+<TableLayout
+android:id="@+id/widget76"
+android:layout_width="183px"
+android:orientation="vertical"
+android:layout_centerVertical="true"
+android:layout_centerHorizontal="true"
+android:layout_height="400px" android:gravity="center">
+<Button
+android:id="@+id/widget77"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content" android:padding="10px"
+android:text="Info"
+android:visibility="visible">
+</Button>
+<Button
+android:id="@+id/widget78"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:padding="10px"
+android:text="Programm"
+android:visibility="visible">
+</Button>
+<Button
+android:id="@+id/widget80"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:padding="10px"
+android:text="Gallery"
+>
+</Button>
+<Button
+android:id="@+id/widget82"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:padding="10px" android:text="WWW">
+</Button>
+<Button
+android:id="@+id/widget83"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:padding="10px"
+android:paddingBottom="10px"
+android:text="Navigate">
+</Button>
+</TableLayout>
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.bluemner.WinterzauberApp"
+      android:versionCode="1"
+      android:installLocation="preferExternal"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" />
+  
+
+    <application android:icon="@drawable/iconlogo" android:label="@string/app_name" android:debuggable="true">
+        <activity android:name=".WinterzauberSplash"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/WinterzauberMain" android:name=".WinterzauberMain"></activity>
+        
+        <activity android:label="@string/Info" android:name=".WinterzauberInfo"></activity>
+        <activity android:label="@string/Filme" android:name=".WInterzauberFilme"></activity>
+        <activity android:label="@string/Gallery" android:name=".WinterzauberGallery"></activity>
+        <activity android:label="@string/Lageplan" android:name=".WinterzauberLageplan" ></activity>
+        <activity android:label="@string/Navigate" android:name=".WinterzauberNavigate"></activity>
+        <activity android:label="@string/Programm" android:name=".WinterzauberProgramm"></activity>
+
+<uses-permission android:name="android.permission.INTRENET"/>
+
+    </application>
+</manifest>

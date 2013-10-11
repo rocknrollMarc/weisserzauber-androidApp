@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/background" android:id="@+id/widget160">
+<ScrollView
+android:layout_width="240px"
+android:layout_height="329px"
+android:layout_centerVertical="true"
+android:layout_centerHorizontal="true"
+android:id="@+id/widget161">
+<LinearLayout
+android:id="@+id/widget162"
+android:layout_width="230px"
+android:layout_height="326px"
+android:orientation="vertical"
+>
+<TextView
+android:id="@+id/widget163"
+android:text="Programm"
+android:textSize="20sp"
+android:textStyle="bold"
+android:textColor="@color/Red1" android:layout_width="227px" android:gravity="bottom" android:layout_height="20px" android:layout_gravity="bottom">
+</TextView>
+<TextView
+android:id="@+id/widget164"
+android:layout_width="299px"
+android:text="Eröffnung am 21. November 2011 mit Markus Schreiber, Bezirksamtsleiter von Hamburg-Mitte, der Hamburger Eisprinzessin und vielen Gästen gegenüber der Europapassage am Weihnachtsmarkt-Tor Ballindamm/Ecke Jungfernstieg (mit Feuerwerk!)"
+android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="normal" android:textSize="14sp" android:layout_height="80px">
+</TextView>
+<TextView
+android:id="@+id/widget165"
+android:layout_width="299px"
+android:layout_height="36px"
+android:text="05. bis 10. Dezember 2011 "
+android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="bold">
+</TextView>
+<TextView
+android:id="@+id/widget166"
+android:layout_width="299px"
+android:text="Die Hamburger Eisprinzessin - Casting"
+android:textColor="@color/Red1" android:gravity="bottom" android:layout_height="15px" android:textStyle="bold">
+</TextView>
+<TextView 
+android:id="@+id/widget167" 
+android:layout_width="227px"
+android:text="Junge Damen im Alter von 16-25 Jahre haben in dieser Zeit die Möglichkeit sich in unserem Presseclub auf dem Fähranleger zur Hamburger Eisprinzessin 2011 casten zu lassen. In der Zeit von 14-16 Uhr wird ein Fotograf vor Ort Bilder machen und es gilt einen Fragebogen zum Hamburger Jungfernstieg zu beantworten. Hauptgewinn ist auch in diesem Jahr ein professionelles Fotoshooting."
+android:textSize="14sp"
+android:gravity="left"
+android:textColor="@color/Red1" android:layout_gravity="bottom" android:layout_height="160px">
+</TextView>
+<TextView android:text="31. Dezember 2011" 
+android:id="@+id/widget168" 
+android:layout_width="299px"
+android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="bold" android:layout_height="30px">
+</TextView>
+<TextView android:text="Winterzauber Silvester Party" 
+android:id="@+id/widget169" 
+android:layout_width="299px"
+android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="bold" android:layout_height="15px">
+</TextView>
+<TextView android:text="Begrüßen Sie mit uns das Jahr 2012 und feiern Sie mit uns Silvester am Jungfernstieg. Wie im Vorjahr werden wir für Ihre Sicherheit sorgen und das Veranstaltungsgelände Straßenseitig einzäunen. Durch Eingangsschleusen an vier verschiedenen Eingängen können Sie auf unser Veranstaltungsgelände gelangen und nach Herzenslust mit uns feiern. Das Security Personal ist angewiesen, dass unsere Besucher keine Flaschen und Böller mit auf das Veranstaltungsgelände nehmen dürfen." 
+android:id="@+id/widget170" 
+android:layout_width="228px"
+android:layout_height="120px" android:textColor="@color/Red1">
+</TextView>
+<TextView android:text="Märchenschiffe" 
+android:id="@+id/widget171" 
+android:layout_width="299px"
+android:layout_height="36px" android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="bold">
+</TextView>
+<TextView android:text="Auch 2011 wird der Winterzauber auf dem Jungfernstieg wieder mit den Märchenschiffen zusammenarbeiten. So stehen in diesem Jahr für unsere Kleinsten u. a. Backschiff I, Traumschiff, Theaterschiff, Backschiff II und ein Cafeschiff zur Verfügung.
+(Für weitere Informationen http://www.maerchenschiffe.de/) © Bernd Sterzl/pixelio" 
+android:id="@+id/widget172" 
+android:layout_width="228px"
+android:layout_height="110px" android:textColor="@color/Red1">
+</TextView>
+<TextView android:text="Hamburger Weihnachtsparade" 
+android:id="@+id/widget173" 
+android:layout_width="228px"
+android:layout_height="36px" android:textColor="@color/Red1" android:gravity="bottom" android:textStyle="bold">
+</TextView>
+<TextView android:text="Ein Highlight in dieser besonderen Atmosphäre ist an jedem der vier Advents-Samstage die Hamburger Weihnachtsparade - ein bunter, fröhlicher Umzug durch die Innenstadt.
+Zweimal am Tag ziehen Weihnachtsmänner, Elfen und Rentiere durch die Mönckebergstraβe bis zum Jungfernstieg. Lassen Sie sich verzaubern! Diesmal wird die Eisprinzessin 2011 - Ilka Groenewold - mit an Bord sein." 
+android:id="@+id/widget174" 
+android:layout_width="228px"
+android:textColor="@color/Red1" android:layout_height="130px">
+</TextView>
+<TextView android:text="Termine: 26.11. - 03.12. - 10.12. - 17.12. jeweils um 13 Uhr und um 17 Uhr ab Mönckebergstraße" 
+android:id="@+id/widget175" 
+android:layout_width="228px"
+android:textColor="@color/Red1" android:layout_height="110px" android:textStyle="bold">
+</TextView>
+</LinearLayout>
+</ScrollView>
+</RelativeLayout>

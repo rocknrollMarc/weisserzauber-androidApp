@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+android:id="@+id/widget64"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/background">
+<ScrollView
+android:id="@+id/widget72"
+android:layout_width="240px"
+android:layout_height="329px"
+android:layout_centerVertical="true"
+android:layout_centerHorizontal="true"
+>
+<LinearLayout
+android:id="@+id/widget76"
+android:layout_width="230px"
+android:layout_height="326px"
+android:orientation="vertical"
+>
+<TextView
+android:id="@+id/widget79"
+android:layout_width="227px"
+android:layout_height="34px"
+android:text="Nostalgie Riesenrad"
+android:textSize="20sp"
+android:textStyle="bold"
+android:gravity="left"
+android:layout_gravity="center_horizontal"
+android:textColor="@color/Red1">
+</TextView>
+<TextView
+android:id="@+id/widget80"
+android:layout_width="229px"
+android:layout_height="85px"
+android:text="Das Riesenrad stammt aus dem Jahre 1926 und bereiste in damaliger Zeit die verschiedensten Jahrm&#228;rkte in West sowie in Ostdeutschland."
+android:textStyle="bold"
+android:textColor="@color/Red1">
+</TextView>
+<TextView
+android:id="@+id/widget81"
+android:layout_width="228px"
+android:layout_height="83px"
+android:text="Zu den ber&#252;hmtesten Volksfesten geh&#246;rten damals die Vogelwiese in Dresden, das Cannstatter Volksfest in Stuttgart, der Bremer Freimarkt, sowie der Hamburger Dom. "
+android:textColor="@color/Red1">
+</TextView>
+<TextView
+android:id="@+id/widget82"
+android:layout_width="228px"
+android:layout_height="110px"
+android:text="Auch zum diesj&#228;hrigen Winterzauber sorgt das Nostalgie &#8211; Riesenrad wieder f&#252;r die Unterhaltung der kleinen und gro&#223;en Besucher des einzigartigen Weihnachtsmarktes auf dem Jungfernstieg an der Binnenalster. "
+android:textColor="@color/Red1">
+</TextView>
+<TextView 
+android:id="@+id/widget83" 
+android:layout_width="227px"
+android:text="Hier unser ganz besonderer Tipp"
+android:textSize="20sp"
+android:textStyle="bold"
+android:gravity="left"
+android:layout_gravity="center_horizontal" android:textColor="@color/Red1" android:layout_height="50px">
+</TextView>
+<TextView android:text="Auf dem diesjährigen Winterzauber bekommen Sie exklusiv den ORIGINAL Meraner 
+Glühwein, ein Genuß von höchster Güte und Qualität.Übrigens: die ideale Geschenkidee in der 
+Vorweihnachtszeit - gibt es auch als Flasche auf dem Markt zu kaufen, mit besonderem Winterzauber-Etikett!" 
+android:id="@+id/widget84" 
+android:layout_width="228px"
+android:textColor="@color/Red1" android:layout_height="100px">
+</TextView>
+</LinearLayout>
+</ScrollView>
+</RelativeLayout>
